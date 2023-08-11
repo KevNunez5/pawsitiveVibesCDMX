@@ -10,3 +10,6 @@ For this Varathon season, we are submitting the code and video demo of our origi
 
 # Trailer video
 Link to presentation video: https://youtu.be/HIHTf17KKAU
+
+# Presentation
+https://www.canva.com/design/DAFrHdSz3-Y/8uXajuYf6IjHsHiFxenpaA/view?utm_content=DAFrHdSz3-Y&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
